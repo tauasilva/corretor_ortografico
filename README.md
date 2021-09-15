@@ -1,2 +1,1 @@
-# corretor_ortografico
-Corretor ortográfico desenvolvido em python 
+# Curso de NLP Alura, Construindo um corretor ortográfico utilizando python
